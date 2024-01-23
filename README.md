@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/ThiagoAntones/ThiagoAntones/blob/main/images/dev-coding.gif?raw=true" width="200"/>
+  <img src="https://github.com/ThiagoAntones/ThiagoAntones/blob/main/images/dev-coding.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thiago-antones/" target="_blank">
@@ -75,6 +75,6 @@
 <br> 
 
 ## :fire: My Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoAntones&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoAntones&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAntones&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAntones&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
