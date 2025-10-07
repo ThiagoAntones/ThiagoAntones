@@ -5,12 +5,12 @@
   <a href="https://www.linkedin.com/in/thiago-antones/" target="_blank">
     <img src="https://github.com/monteirohat/monteirohat/blob/f7851d880b06e502223883e623223fb8b5b6d071/images/LinkedIn-blue.svg" alt="LinkedIn André Monteiro"/>
   </a>
-  <a href="https://www.youtube.com/@ThiagoAntones" target="_blank">
+  <!--<a href="https://www.youtube.com/@ThiagoAntones" target="_blank">
     <img src="https://github.com/monteirohat/monteirohat/blob/46cc1a2c8102f426eebd3ede4e0c7ca88e37a149/images/YouTube-red.svg" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/ThiagoAntones" target="_blank">
     <img src="https://github.com/monteirohat/monteirohat/blob/f7851d880b06e502223883e623223fb8b5b6d071/images/Twitter-blue.svg" alt="Twitter André Monteiro"/>
-  </a>
+  </a>-->
 </div>
 
 <div align="center">
